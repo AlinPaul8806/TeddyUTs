@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../NetworkUtility.Tests/NetworkUtility.Tests.csproj" Id="b898986a-218e-4d3b-b6b0-dd6e781f9845" />
+  <Project Path="../NetworkUtility/NetworkUtility.csproj" Id="ac4b88b4-0c62-4d80-87ca-3dff3ba9a4a7" />
+</Solution>

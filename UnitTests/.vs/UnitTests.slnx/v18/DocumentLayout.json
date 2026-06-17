@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\UnitTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B898986A-218E-4D3B-B6B0-DD6E781F9845}|..\\NetworkUtility.Tests\\NetworkUtility.Tests.csproj|g:\\vs projects learning\\design patterns\\teddyuts\\networkutility.tests\\pingtests\\networkservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B88B4-0C62-4D80-87CA-3DFF3BA9A4A7}|..\\NetworkUtility\\NetworkUtility.csproj|g:\\vs projects learning\\design patterns\\teddyuts\\networkutility\\ping\\networkservive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC4B88B4-0C62-4D80-87CA-3DFF3BA9A4A7}|..\\NetworkUtility\\NetworkUtility.csproj|g:\\vs projects learning\\design patterns\\teddyuts\\networkutility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NetworkServiceTests.cs",
+              "DocumentMoniker": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "ToolTip": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "RelativeToolTip": "..\\NetworkUtility.Tests\\PingTests\\NetworkServiceTests.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAIA0wGYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:52:12.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NetworkServive.cs",
+              "DocumentMoniker": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility\\Ping\\NetworkServive.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtility\\Ping\\NetworkServive.cs",
+              "ToolTip": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility\\Ping\\NetworkServive.cs",
+              "RelativeToolTip": "..\\NetworkUtility\\Ping\\NetworkServive.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:51:07.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NetworkUtility\\Program.cs",
+              "ToolTip": "G:\\VS Projects Learning\\Design Patterns\\TeddyUTs\\NetworkUtility\\Program.cs",
+              "RelativeToolTip": "..\\NetworkUtility\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T13:49:45.586Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
